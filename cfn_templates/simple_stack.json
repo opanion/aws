@@ -1,0 +1,8 @@
+{
+"AWSTemplateFormatVersion":"",
+"Description":"Template creates an EC2 instance,key pair and a security group",
+"Parameters":{
+},
+"Resources":{
+},
+}
